@@ -15,3 +15,4 @@ choice = input('음료수를 고르세요.(사이다/콜라/물) : ')
 num = int(input('개수를 입력하세요. : '))
 
 print(str(음료수(choice, num)) + '원 입니다.')
+test..
